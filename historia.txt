@@ -2,3 +2,5 @@ proyecto blog
 stack: html, css
 primeras pruebas
 libre de uso, modificaciones y comentarios
+
+Master 1
