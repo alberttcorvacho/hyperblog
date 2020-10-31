@@ -1,5 +1,4 @@
-esta es la historia de Albertt
-
-albert tiene 29 años y nacio en Perú 
-
-mañana nos enfocaremos en su vida laboral
+proyecto blog 
+stack: html, css
+primeras pruebas
+libre de uso, modificaciones y comentarios
