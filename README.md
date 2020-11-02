@@ -1,6 +1,5 @@
 # hyperblog
-Un blog increíble para el curso de Git y Github de Platzi 
-* Creado por el equipo de Platzi Team
-* Creado por el equipo de Platzi Team 
-* Incluye ejemplos en win lin y max
-* Disponible para todas las edades
+Art. 
+All of us are humans, and this make possible the art.
+
+Hyperblog is a good name for this.
